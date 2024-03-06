@@ -14190,7 +14190,7 @@
                             maximumCash: 7333.11,
                             progress: 0,
                             btcLevel: 5e-9,
-                            operationTime: 10000,
+                            operationTime: 1000,
                             isCollectingBTC: this.$store.getters.isCollectingBTC,
                             isCollectedBTC: this.$store.getters.isCollectedBTC
                         }
